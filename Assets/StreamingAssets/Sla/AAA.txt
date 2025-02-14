@@ -1,0 +1,45 @@
+:: Grandao {"position":"500,450","size":"100,100"}
+Everyday i imagine a future where
+
+[[i can be with you]]
+[[oi]]
+
+
+:: Inicio {"position":"375,275","size":"100,100"}
+Cara eu nao sei oq escrever aqui eu to meio bluéblué das ideias
+escolhe ai
+
+[[POPOTAO]]
+[[Grandao]]
+
+
+
+:: POPOTAO {"position":"300,450","size":"100,100"}
+Ihaaaaa alguma coisa pra ter mais duas escolhas
+
+[[edering]]
+[[coisas loucas]]
+
+
+:: coisas loucas {"position":"375,600","size":"100,100"}
+Im so crazy i love me
+
+[[Inicio]]
+
+
+:: edering {"position":"175,600","size":"100,100"}
+só pra terminar eu vou voltar pro inicio
+
+[[Inicio]]
+
+
+:: i can be with you {"position":"500,600","size":"100,100"}
+ah mano eu ainda to blé
+
+[[Inicio]]
+
+
+:: oi {"position":"650,600","size":"100,100"}
+tchau
+
+[[Inicio]]
