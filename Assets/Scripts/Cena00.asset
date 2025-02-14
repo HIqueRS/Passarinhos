@@ -12,4 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6f69a80c8e001a4e895eaa01d4335a3, type: 3}
   m_Name: Cena00
   m_EditorClassIdentifier: 
-  dialog: "N\xE3o era amor, n\xE3o era, nao era amo era cilada cilada cilada."
+  dialog: "$name: Come on, $boyfriend, we have to go!\r\n$boyfriend: I haven't finished
+    packing yet! Did you get the radio?\r\n$name: I might have forgotten.\r\n$boyfriend:
+    Did you want us to go an entire road trip without listening to $band at least
+    once?\r\n$name: Wouldn't dream of it.\r\n\r\nYou pack your essentials, and, of
+    course, your radio. Once $boyfriend is out of the room, you hide something very
+    important, a wedding ring carefully tucked inside an acorn shaped box. He has
+    wanted to visit Londrina for a long time now. You have done your homework, there's
+    plenty of beautiful places for a proposal to take place. You picture the both
+    of you at Lake Igap\xF3, $boyfriend watching the sunset, while you take out the
+    ring and wait for him to look at you. He will turn around to badmouth a swan
+    swimming in the lake, but as soon as he lays eyes upon you, he tears up. It's
+    gonna be perfect!"
